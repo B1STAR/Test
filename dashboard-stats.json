@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "totalRevenue": 2847650,
+    "activeProjects": 48,
+    "totalFreelancers": 156,
+    "totalClients": 89,
+    "growth": {
+      "revenue": 12.5,
+      "projects": 8.2,
+      "freelancers": 15.3,
+      "clients": 6.7
+    }
+  },
+  "monthlyRevenue": [
+    { "month": "Jan", "revenue": 220000, "projects": 32 },
+    { "month": "Fév", "revenue": 235000, "projects": 38 },
+    { "month": "Mar", "revenue": 248000, "projects": 41 },
+    { "month": "Avr", "revenue": 267000, "projects": 45 },
+    { "month": "Mai", "revenue": 289000, "projects": 48 },
+    { "month": "Juin", "revenue": 301000, "projects": 52 }
+  ],
+  "projectsByCategory": [
+    { "category": "Développement Web", "count": 28, "color": "#3B82F6" },
+    { "category": "Design Graphique", "count": 22, "color": "#8B5CF6" },
+    { "category": "Marketing Digital", "count": 18, "color": "#10B981" },
+    { "category": "Rédaction", "count": 15, "color": "#F59E0B" },
+    { "category": "Photographie", "count": 12, "color": "#EF4444" },
+    { "category": "Consultation", "count": 8, "color": "#6B7280" }
+  ]
+}
